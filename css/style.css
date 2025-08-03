@@ -398,6 +398,7 @@ span {
     }
     .about {
         flex-direction: column-reverse;
+        /* flex-direction: column-reverse; */
     }
     .about img {
         width: 70vw;
@@ -418,6 +419,7 @@ span {
     @media (max-width: 617px) {
     .portfolio-container {
         grid-template-columns: 1fr;
+        /* grid-template-columns: 1fr; */ 
     }
     }
     
